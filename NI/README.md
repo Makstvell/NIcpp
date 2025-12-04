@@ -15,9 +15,6 @@ This will:
 - Run the application
 
 ### Option 2: Manual (If automatic fails)
-
-1. Open **"Developer Command Prompt for VS 2022"** from Start Menu
-2. Navigate to project: `cd c:\Users\maxim\Desktop\NI`
 3. Run: `build.bat`
 
 ## What This Demonstrates
